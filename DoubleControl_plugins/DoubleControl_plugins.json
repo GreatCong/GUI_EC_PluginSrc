@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2019/10/19",
+    "name" : "DoubleControl_plugin",
+    "version" : "1.0.2",
+    "type" : "Plugin",
+    "description" : "Double Dobot Control",
+    "dependencies" : ["DRE_Master"]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2019/01/13",
+    "name" : "Measure_Plugin",
+    "version" : "1.0.0",
+    "type" : "Plugin",
+    "description" : "Measure example",
+    "dependencies" : ["DRE_Master"]
+}

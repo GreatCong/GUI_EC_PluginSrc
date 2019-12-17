@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2019/11/21",
+    "name" : "Matlab_plugin",
+    "version" : "1.0.0",
+    "type" : "Plugin",
+    "description" : "EtherCAT与MATLAB交互接口",
+    "dependencies" : ["DRE_Master"]
+}

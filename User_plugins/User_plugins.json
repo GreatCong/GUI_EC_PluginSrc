@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2018/11/08",
+    "name" : "UserApp_Plugin",
+    "version" : "1.1.0",
+    "type" : "Plugin",
+    "description" : "UserApp example",
+    "dependencies" : ["DRE_Master"]
+}

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Controls">
+        <file>Resource/Control/Dir_Down.png</file>
+        <file>Resource/Control/Dir_Left.png</file>
+        <file>Resource/Control/Dir_Right.png</file>
+        <file>Resource/Control/Dir_Up.png</file>
+        <file>Resource/Control/App_icon.png</file>
+        <file>Resource/Control/Measure_icon.png</file>
+        <file>Resource/Control/MATLAB_icon.png</file>
+        <file>Resource/Control/VirtualView_icon.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>Resource/style/qdarkstyle/style.qss</file>
+    </qresource>
+</RCC>

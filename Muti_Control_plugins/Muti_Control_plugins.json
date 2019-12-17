@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2019/11/07",
+    "name" : "Muti_Control_Plugin",
+    "version" : "1.1.1",
+    "type" : "Plugin",
+    "description" : "Muti_Control",
+    "dependencies" : ["DRE_Master"]
+}

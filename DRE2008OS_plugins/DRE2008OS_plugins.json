@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2019/04/15",
+    "name" : "DRE2008OS_Plugin",
+    "version" : "1.1.0",
+    "type" : "Plugin",
+    "description" : "DRE2008OS",
+    "dependencies" : ["DRE_Master"]
+}

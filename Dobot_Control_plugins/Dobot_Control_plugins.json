@@ -1,0 +1,10 @@
+﻿{
+    "Keys" : [ 123123123],
+    "author" : "liucongjun",
+    "date" : "2019/10/19",
+    "name" : "Dobot_Control_Plugin",
+    "version" : "1.2.1",
+    "type" : "Plugin",
+    "description" : "Dobot Control",
+    "dependencies" : ["DRE_Master"]
+}
